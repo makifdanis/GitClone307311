@@ -1,0 +1,3 @@
+bazı kodlar yazdım
+bu repoyu githubdan klonladım
+bu değişiklikler working space de
